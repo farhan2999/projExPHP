@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="Css/base.css">
-    <link rel="stylesheet" href="Css/animation.css">
-    <link rel="stylesheet" href="Css/flex.css">
-    <link rel="stylesheet" href="Css/form.css">
+    <link rel="stylesheet" href="Assets/Css/base.css">
+    <link rel="stylesheet" href="Assets/Css/animation.css">
+    <link rel="stylesheet" href="Assets/Css/flex.css">
+    <link rel="stylesheet" href="Assets/Css/form.css">
     <title>BB</title>
 </head>
 <body>
@@ -25,7 +25,7 @@
     </header>
     <main>
         <h1>Voir l'école => Nom de l'école</h1>
-            <img class="imageMilieu" src="Images/itnIm.jpeg" alt="Image de l'école">
+            <img class="imageMilieu" src="../Assets/Images/itnIm.jpeg" alt="Image de l'école">
         <div class="flexible wrap space-around">
             <div class="card border">
                 <h2>Informations générales</h2>
