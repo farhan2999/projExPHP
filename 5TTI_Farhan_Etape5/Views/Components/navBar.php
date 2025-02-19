@@ -1,5 +1,6 @@
 <ul class="flexible space-evenly">
     <?php if (isset($_SESSION["user"])) : ?>
+        <li class="menu"><a href="index.php">Home</a></li>
         <li class="menu"><a href="mesEcoles">Mes écoles</a></li>
         <li class="menu"><a href="profil">Profil</a></li>
         <li class="menu"><a href="deconnexion">Déconnexion</a></li>
